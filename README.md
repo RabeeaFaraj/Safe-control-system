@@ -1,3 +1,4 @@
 1) I built a control system for a safety box that is opened by 4 people who must enter a four-digit code of 0/1 in a specific order. The order of the people is determined according to the BMI of each one of them, the BMI data is stored in the memory of the security system in binary representation (0/1).
-2) The software application that I used for building and planning My project is Nlmultisim,so the file that I provided u can't open it in this site,but you can download it and open it by NLmultisim software. Also I provided an screenshot of how My project looks in the NLmultisim software.
-3) Link for A video of My project: https://youtu.be/n43lzpqyQGM
+2) For the implementation of this project I used my knowledge from the courses of digital systems and digital electronics, I used moore machine for building the memory data in my system , and digital components in order to enter a binary code input and analog BMI input.
+3) The software application that I used for building and planning My project is Nlmultisim,so the file that I provided u can't open it in this site,but you can download it and open it by NLmultisim software. Also I provided an screenshot of how My project looks in the NLmultisim software.
+4) Link for A video of My project: https://youtu.be/n43lzpqyQGM
